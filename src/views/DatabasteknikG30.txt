@@ -1,0 +1,3 @@
+create database group30;
+show databases;
+
