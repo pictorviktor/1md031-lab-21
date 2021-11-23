@@ -4,8 +4,8 @@ Before you submit the final version of your labs, make sure that your project fu
 
 ## 00 Introduction
 
-- [ ] Install an IDE on your system
+- [ 1] Install an IDE on your system
 
 ## 01 Git
 
-- [ ] Fork and clone the 1md031-lab-21 repository
+- [ 1] Fork and clone the 1md031-lab-21 repository
