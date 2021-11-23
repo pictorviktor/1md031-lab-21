@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Epic Burger",
+    "kCal": 900,
+    "lactose": true,
+    "gluten": true,
+    "img": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/2:1/w_3756,h_1878,c_limit/Smashburger-recipe-120219.jpg"
+  },
+{
+    "name": "Hot Madness",
+    "kCal": 1000,
+    "lactose": true,
+    "gluten": false,
+    "img": "https://www.santamariaworld.com/optimized/maximum/globalassets/_recipes/bbq/kentucky_burger.jpg"
+  },
+{
+    "name": "Mean and Green",
+    "kCal": 1200,
+    "lactose": true,
+    "gluten": true,
+    "img": "https://www.korvbrodsbagarn.se/siteassets/receptbilder/brookyn_vegan_burger_recept_1170x790px.jpg"
+  }
+
+]

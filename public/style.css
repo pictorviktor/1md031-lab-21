@@ -1,1 +1,36 @@
 /*empty*/
+body {
+   font-family: "Times New Roman";
+   
+
+}
+.Introbild {
+   position: absolute;
+   
+}
+.Specs {
+   font-weight: bold;
+}
+#burgerselection {
+   background-color: black;
+   color: white;
+   border: 5px ridge #ff9900;
+}
+button:hover {
+   color:cornflowerblue;
+   cursor: pointer;
+   background-color: rgb(20, 248, 218);
+}
+section {
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   margin-right: 50px;
+   padding: 1px 23px 4px;
+   
+ }
+ #Customerinfo {
+   
+  
+   border: 5px dotted #0a0a0a;
+}
